@@ -2,7 +2,7 @@
 -
 - 🌱 I am currently a graduate student completing a thesis baised MSc in Applied Mathamatics at the Univeristy of Alberta 
 -
-- 👀 I have a broad set of intrest that fall within the following topics...
+- 👀 I have a broad set of intrest that lie within the following topics...
 - a) Mathamatical modeling in physics, industry, and envornmental sciences. Specifically, using ODE, PDE, and machine learning models
 - b) Data science and data driven modeling
 - c) Applied machine learning and artifical inteligence 
