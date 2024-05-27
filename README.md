@@ -13,7 +13,7 @@
 -
 - 📫 You can reach me by my student email at mhkent@ualberta.ca. I repectfully ask that you dont send me spam or junk emails
 - 
-- ⚡ Fun fact: I enjoy olympic weighlifting when I am not working or studying. I try to compete in 2-3 compititions a year 
+- ⚡ Fun fact: I enjoy olympic weighlifting when I am not working or studying. I try to compete in two to three compititions a year 
 
 <!---
 milsbeary/milsbeary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
