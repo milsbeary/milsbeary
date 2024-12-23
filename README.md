@@ -9,7 +9,7 @@
 -
 - 💞️ I'm open to project colaborations, feel free to reach out.
 -
-- 📫 You can reach me by my student email at mhkent@ualberta.ca, or by LinkedIn https://www.linkedin.com/in/miles-kent-673b3a27a/. 
+- 📫 You can reach me at my student email (mhkent@ualberta.ca), or by messaging me on LinkedIn (https://www.linkedin.com/in/miles-kent-673b3a27a/). 
 - 
 - ⚡ Fun fact: I enjoy Weighlifting when I am not working or studying. I try to compete in two to three compititions a year. 
 
