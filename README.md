@@ -1,19 +1,17 @@
-- 👋 Hi, I’m Miles! Hope you day is going well, welcome to my page
+- 👋 Hi, I’m Miles! Hope your day is going well, welcome to my Github.
 -
-- 🌱 I am currently a graduate student completing a thesis baised MSc in Applied Mathamatics at the Univeristy of Alberta 
+- 🌱 I am currently a graduate student completing a thesis baised MSc in Applied Mathamatics at the Univeristy of Alberta. 
 -
 - 👀 I have a broad set of intrest that lie within the following topics...
-- a) Mathamatical modeling in physics, industry, and envornmental sciences. Specifically, using ODE, PDE, and machine learning models
-- b) Data science and data driven modeling
-- c) Applied machine learning and artifical inteligence 
-- d) High preformance and parallel computing
-- e) Development of methods and algorithms to solve problems in the topics mentioned above 
+- a) Mathamatical modeling and the development of methods and algorithms to solve problems in physics, the environmental sciences, or that have industrial application. 
+- b) Machine learning and artifical inteligence, especially when applied to solve problems in the aformentioned feilds.
+- c) High preformance and parallel computing.
 -
-- 💞️ I'm open to project colaborations, feel free to reach out
+- 💞️ I'm open to project colaborations, feel free to reach out.
 -
-- 📫 You can reach me by my student email at mhkent@ualberta.ca. I repectfully ask that you dont send me spam or junk emails
+- 📫 You can reach me by my student email at mhkent@ualberta.ca. 
 - 
-- ⚡ Fun fact: I enjoy olympic weighlifting when I am not working or studying. I try to compete in two to three compititions a year 
+- ⚡ Fun fact: I enjoy Weighlifting when I am not working or studying. I try to compete in two to three compititions a year. 
 
 <!---
 milsbeary/milsbeary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
