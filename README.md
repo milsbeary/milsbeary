@@ -3,9 +3,10 @@
 - 🌱 I am currently a graduate student completing a thesis baised MSc in Applied Mathamatics at the Univeristy of Alberta. 
 -
 - 👀 I have a broad set of intrest that lie within the following topics...
-- a) Mathamatical modeling and the development of methods and algorithms to solve problems in physics, the environmental sciences, or that have industrial application. 
-- b) Machine learning and artifical inteligence, especially when applied to solve problems in the aformentioned feilds.
-- c) High preformance and parallel computing.
+- a) Developing models, algorithms, and codes to advance discovery and solve problems in the sciences and industry
+- b) Supervised and reinforcement learning, both applied and theoretical 
+- c) Big data analytics and mining
+- d) High-performance and parallel computing for large-scale simulations, data processing, and machine learning
 -
 - 💞️ I'm open to project colaborations, feel free to reach out.
 -
