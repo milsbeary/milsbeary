@@ -3,10 +3,14 @@ Hi, I’m Miles! Hope your day is going well, welcome to my Github.
 I am currently a graduate student completing a thesis baised MSc in Applied Mathamatics at the Univeristy of Alberta. 
 
 I have a broad set of intrest that lie within the following topics...
--Developing models, algorithms, and codes to advance discovery and solve problems in the sciences and industry
--Supervised and reinforcement learning, both applied and theoretical 
--Big data analytics and mining
--High-performance and parallel computing for large-scale simulations, data processing, and machine learning
+
+A) Developing models, algorithms, and codes to advance discovery and solve problems in the sciences and industry
+
+B) Supervised and reinforcement learning, both applied and theoretical 
+
+C) Big data analytics and mining
+
+D) High-performance and parallel computing for large-scale simulations, data processing, and machine learning
 
 I'm open to project colaborations, feel free to reach out.
 
