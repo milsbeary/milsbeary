@@ -4,7 +4,7 @@ I am currently a graduate student completing a thesis baised MSc in Applied Math
 
 I have a broad set of intrest that lie within the following topics...
 
-A) Developing models, algorithms, and codes to advance discovery and solve problems in the sciences and industry
+A) Developing models, algorithms, and software based systems to advance discovery and solve problems in the sciences and industry
 
 B) Supervised and reinforcement learning, both applied and theoretical 
 
