@@ -8,9 +8,7 @@ A) Developing models, algorithms, and codes to advance discovery and solve probl
 
 B) Supervised and reinforcement learning, both applied and theoretical 
 
-C) Big data analytics and mining
-
-D) High-performance and parallel computing for large-scale simulations, data processing, and machine learning
+C) High-performance and parallel computing for large-scale simulations and machine learning
 
 I'm open to project colaborations, feel free to reach out.
 
