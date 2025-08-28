@@ -8,7 +8,9 @@ A) Developing models, algorithms, and software based systems to advance discover
 
 B) Supervised and reinforcement learning, both applied and theoretical 
 
-C) High-performance and parallel computing for large-scale simulations and machine learning
+C) High-performance and parallel computing for large-scale simulations, machine learning, and big data analytics
+
+D) Automated descision making and control 
 
 I'm open to project colaborations, feel free to reach out.
 
