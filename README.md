@@ -1,6 +1,6 @@
 Hi, I’m Miles! Hope your day is going well, welcome to my Github.
 
-I am currently a graduate student completing a thesis baised MSc in Applied Mathamatics at the Univeristy of Alberta. 
+I am currently a graduate student at Carleton University completing a PhD in Data Science, Analytics, and Artificial Intelligence. 
 
 I have a broad set of intrest that lie within the following topics...
 
