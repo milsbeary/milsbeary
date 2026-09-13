@@ -6,7 +6,7 @@ I have a broad set of intrest that lie within the following topics...
 
 A) Developing models, algorithms, and software based systems to advance discovery and solve problems in the sciences and industry
 
-B) Supervised and reinforcement learning, both applied and theoretical 
+B) Supervised and reinforcement learning, both applied, theoretical, and in multi-agent settings  
 
 C) High-performance and parallel computing for large-scale simulations, machine learning, and big data analytics
 
